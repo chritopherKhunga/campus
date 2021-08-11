@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PaCampus</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="name">Name</string>
+    <string name="sign_in1">Sign in</string>
+    <string name="enter_your_username">Enter your Username</string>
+    <string name="enter_your_password">enter your password</string>
+    <string name="username1">USERNAME</string>
+    <string name="password1">PASSWORD</string>
+    <string name="register">REGISTER</string>
+    <string name="confrimpassword">CONFRIMPASSWORD</string>
+    <string name="password">PASSWORD</string>
+    <string name="email">EMAIL</string>
+    <string name="username">USERNAME</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="register1">register</string>
+    <string name="start">start</string>
+    <string name="register2">Register</string>
+</resources>
